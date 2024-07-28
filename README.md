@@ -40,11 +40,11 @@ The Mars Rover Simulation is a Java-based application that simulates the movemen
 
 
 ## Evaluation Criteria
-**Code Quality:** Adherence to best practices, SOLID principles, and effective use of design patterns.
-**Functionality:** Correct implementation of all required tasks.
-**Global Convention:** Code is written in a way that is globally understandable.
-**Gold Standards:** Effective handling of logging, exceptions, and validations.
-**Code Walkthrough:** Ability to explain the architecture, design patterns used, and the decisions taken.
+- **Code Quality:** Adherence to best practices, SOLID principles, and effective use of design patterns.
+- **Functionality:** Correct implementation of all required tasks.
+- **Global Convention:** Code is written in a way that is globally understandable.
+- **Gold Standards:** Effective handling of logging, exceptions, and validations.
+- **Code Walkthrough:** Ability to explain the architecture, design patterns used, and the decisions taken.
 
 ## Conclusion
 This Mars Rover Simulation showcases the use of OOP principles and design patterns to build a robust and flexible application. The implementation ensures that the rover navigates the grid correctly while handling obstacles and boundaries effectively.
